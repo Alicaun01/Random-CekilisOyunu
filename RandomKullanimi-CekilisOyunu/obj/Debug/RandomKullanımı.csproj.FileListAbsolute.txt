@@ -1,0 +1,10 @@
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.exe.config
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.exe
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\bin\Debug\RandomKullanımı.pdb
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csproj.AssemblyReference.cache
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.Form1.resources
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.Properties.Resources.resources
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csproj.GenerateResource.cache
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.csproj.CoreCompileInputs.cache
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.exe
+D:\visualstudioPROJELERİM\RandomKullanımı\RandomKullanımı\obj\Debug\RandomKullanımı.pdb
